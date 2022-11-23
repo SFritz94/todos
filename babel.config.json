@@ -1,0 +1,4 @@
+//La config de babel cambia el codigo moderno de js para que pueda correr sin problemas en navegadores viejos
+{
+    "presets": ["@babel/preset-env"]
+}
